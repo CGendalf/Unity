@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A4CC-CA1E-4C8B-B29F-516FE6180F2E}|Bank\\Bank.csproj|D:\\Csharp\\Bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E7A4CC-CA1E-4C8B-B29F-516FE6180F2E}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A4CC-CA1E-4C8B-B29F-516FE6180F2E}|Bank\\Bank.csproj|d:\\csharp\\bank\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E7A4CC-CA1E-4C8B-B29F-516FE6180F2E}|Bank\\Bank.csproj|solutionrelative:bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Csharp\\Bank\\Bank\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank\\Bank.cs",
+              "ToolTip": "D:\\Csharp\\Bank\\Bank\\Bank.cs",
+              "RelativeToolTip": "Bank\\Bank.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:03:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "D:\\Csharp\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:02:13.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
